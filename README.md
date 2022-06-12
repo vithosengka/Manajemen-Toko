@@ -91,5 +91,9 @@ Menjalankan aplikasi
 ```bash
 php artisan serve
 ```
+```bash
+atau jalankan Apache & Mysql Pada XAMPP
+```
+
 
 

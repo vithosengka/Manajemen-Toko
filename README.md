@@ -8,7 +8,7 @@ Aplikasi Ini adalah aplikasi yang digunakan untuk mengelola transaksi pada sebua
 
 ## Dibuat dengan
 Aplikasi dibuat dengan menggunakan Laravel versi 8
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
+<i class="fab fa-laravel"></i>
 
 ### Tools
 - Xampp (PHP min V7.4)

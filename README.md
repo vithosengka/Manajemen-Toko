@@ -8,6 +8,7 @@ Aplikasi Ini adalah aplikasi yang digunakan untuk mengelola transaksi pada sebua
 
 ## Tentang Aplikasi
 Aplikasi dibuat dengan menggunakan Laravel versi 8
+![58480e35cef1014c0b5e4920](https://user-images.githubusercontent.com/73872762/173261005-40f6b19f-c135-4782-b45f-8bc4403a210a.png)
 
 ### Tools
 - Xampp (PHP min V7.4)
@@ -92,6 +93,7 @@ php artisan migrate
 Seeder table User, Pengaturan
 ```bash
 php artisan db:seed
+
 ```
 Menjalankan aplikasi
 ```bash

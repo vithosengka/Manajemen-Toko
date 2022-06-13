@@ -5,6 +5,10 @@ Aplikasi Web dibuat untuk Tugas Akhir Matakuliah Pemrograman Web, Prodi Teknik I
 
 Aplikasi Ini adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
 
+
+## Tentang Aplikasi
+Aplikasi dibuat dengan menggunakan Laravel versi 8
+
 ### Tools
 - Xampp (PHP min V7.4)
 - Browser
